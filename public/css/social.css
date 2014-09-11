@@ -1,0 +1,19 @@
+/* Vars ----------------------------------------------------*//* Mixins ----------------------------------------------------*/#social-bar-holder {
+  
+  background: url(../img/transparent-dark.png);
+  
+}
+
+
+#content-contact {
+	padding-top: 6px;
+	padding-bottom: 14px;
+	text-align: center;
+	color: #333333;
+	font-size: 14px;
+	line-height: 1.5em;
+	clear: both;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+

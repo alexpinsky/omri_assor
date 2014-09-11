@@ -1,0 +1,14 @@
+# Logfile created on 2014-09-11 13:42:27 +0300 by logger.rb/36483
+I, [2014-09-11T13:42:27.677603 #40923]  INFO -- : 0:  rack (1.5.2) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/rack-1.5.2.gemspec
+I, [2014-09-11T13:42:30.605323 #40923]  INFO -- : 0:  rack-protection (1.5.3) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/rack-protection-1.5.3.gemspec
+I, [2014-09-11T13:42:30.605733 #40923]  INFO -- : 0:  tilt (1.4.1) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/tilt-1.4.1.gemspec
+I, [2014-09-11T13:42:34.386021 #40923]  INFO -- : 0:  sinatra (1.4.5) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/sinatra-1.4.5.gemspec
+I, [2014-09-11T13:42:34.386663 #40923]  INFO -- : 0:  bundler (1.5.1) from /usr/local/rvm/gems/ruby-2.0.0-p247@global/specifications/bundler-1.5.1.gemspec
+I, [2014-09-11T13:50:07.974824 #41033]  INFO -- : 0:  daemons (1.1.9) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/daemons-1.1.9.gemspec
+I, [2014-09-11T13:50:07.975233 #41033]  INFO -- : 0:  eventmachine (1.0.3) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/eventmachine-1.0.3.gemspec
+I, [2014-09-11T13:50:07.975520 #41033]  INFO -- : 0:  rack (1.5.2) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/rack-1.5.2.gemspec
+I, [2014-09-11T13:50:07.975796 #41033]  INFO -- : 0:  rack-protection (1.5.3) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/rack-protection-1.5.3.gemspec
+I, [2014-09-11T13:50:07.976043 #41033]  INFO -- : 0:  tilt (1.4.1) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/tilt-1.4.1.gemspec
+I, [2014-09-11T13:50:07.976285 #41033]  INFO -- : 0:  sinatra (1.4.5) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/sinatra-1.4.5.gemspec
+I, [2014-09-11T13:50:07.976532 #41033]  INFO -- : 0:  thin (1.6.2) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/thin-1.6.2.gemspec
+I, [2014-09-11T13:50:07.976760 #41033]  INFO -- : 0:  bundler (1.5.1) from /usr/local/rvm/gems/ruby-2.0.0-p247@global/specifications/bundler-1.5.1.gemspec
