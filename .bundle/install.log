@@ -12,3 +12,12 @@ I, [2014-09-11T13:50:07.976043 #41033]  INFO -- : 0:  tilt (1.4.1) from /usr/loc
 I, [2014-09-11T13:50:07.976285 #41033]  INFO -- : 0:  sinatra (1.4.5) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/sinatra-1.4.5.gemspec
 I, [2014-09-11T13:50:07.976532 #41033]  INFO -- : 0:  thin (1.6.2) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/thin-1.6.2.gemspec
 I, [2014-09-11T13:50:07.976760 #41033]  INFO -- : 0:  bundler (1.5.1) from /usr/local/rvm/gems/ruby-2.0.0-p247@global/specifications/bundler-1.5.1.gemspec
+I, [2014-09-11T14:17:19.853980 #41600]  INFO -- : 0:  daemons (1.1.9) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/daemons-1.1.9.gemspec
+I, [2014-09-11T14:17:19.854346 #41600]  INFO -- : 0:  eventmachine (1.0.3) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/eventmachine-1.0.3.gemspec
+I, [2014-09-11T14:17:19.854602 #41600]  INFO -- : 0:  newrelic_rpm (3.8.0.218) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/newrelic_rpm-3.8.0.218.gemspec
+I, [2014-09-11T14:17:19.854852 #41600]  INFO -- : 0:  rack (1.5.2) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/rack-1.5.2.gemspec
+I, [2014-09-11T14:17:19.855100 #41600]  INFO -- : 0:  rack-protection (1.5.3) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/rack-protection-1.5.3.gemspec
+I, [2014-09-11T14:17:19.855338 #41600]  INFO -- : 0:  tilt (1.4.1) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/tilt-1.4.1.gemspec
+I, [2014-09-11T14:17:19.855577 #41600]  INFO -- : 0:  sinatra (1.4.5) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/sinatra-1.4.5.gemspec
+I, [2014-09-11T14:17:19.855815 #41600]  INFO -- : 0:  thin (1.6.2) from /usr/local/rvm/gems/ruby-2.0.0-p247/specifications/thin-1.6.2.gemspec
+I, [2014-09-11T14:17:19.856044 #41600]  INFO -- : 0:  bundler (1.5.1) from /usr/local/rvm/gems/ruby-2.0.0-p247@global/specifications/bundler-1.5.1.gemspec
