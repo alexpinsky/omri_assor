@@ -1,0 +1,691 @@
+@font-face {
+	font-family: 'Conv_AVNEGM__.OT';
+	src: url('fonts/AVNEGM__.OT.eot');
+	src: local('☺'), url('fonts/AVNEGM__.OT.woff') format('woff'), url('fonts/AVNEGM__.OT.ttf') format('truetype'), url('fonts/AVNEGM__.OT.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_AVNEGB__.OT';
+	src: url('fonts/AVNEGB__.OT.eot');
+	src: local('☺'), url('fonts/AVNEGB__.OT.woff') format('woff'), url('fonts/AVNEGB__.OT.ttf') format('truetype'), url('fonts/AVNEGB__.OT.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+html, body, ul, ol, li, form, fieldset, legend
+{
+	margin: 0;
+	padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p { margin-top: 0; }
+
+fieldset,img { border: 0; }
+
+legend { color: #000; }
+
+li { list-style: none; }
+
+sup { vertical-align: text-top; }
+
+sub { vertical-align: text-bottom; }
+
+table
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+caption, th, td
+{
+	text-align: left;
+	vertical-align: top;
+	font-weight: normal;
+}
+
+input, textarea, select
+{
+	font-size: 110%;
+	line-height: 1.1;
+}
+
+abbr, acronym
+{
+	border-bottom: .1em dotted;
+	cursor: help;
+}
+
+
+
+
+
+html {
+	font-size: 10px;
+	background: #fff;
+}
+
+ 
+
+#header {
+	font-family: "AvneyGad Medium",Impact, "Arial Black", sans-serif;
+	color: #fff;
+	text-transform: uppercase;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 2000;
+	box-shadow: 0px 6px 10px #000;
+	background-color: #0b0b0b;
+}
+
+#header h1 {
+	font-weight: normal;
+	font-size: 36px;
+	font-size: 3.6rem;
+	padding-left: 198px;
+	padding-left: 19.8rem;
+	height:51px;
+	padding-right: 45px;
+	margin: 0px;
+}
+
+
+#nav {
+	padding: 0;
+	position: fixed;
+	top: 0;
+	width: 500px;
+	margin-left: 40%;
+	margin-top: 21px;
+	z-index: 2010;
+	clear: none;
+	float: none;
+	margin-right: 0;
+	margin-bottom: 0;	
+}
+#cinamon {
+	position: absolute;
+	padding-left: 325px;
+}
+#honny {
+	padding-left: 325px;
+	position: absolute;
+	padding-top: 180px;
+}
+#choclate {
+	padding-top: 180px;
+	position: absolute;
+	padding-left: 23px;
+}
+#coffee {
+	padding-top: 180px;
+	position: absolute;
+	padding-left: 628px;
+}
+#coffee2 {
+	padding-top: 269px;
+	padding-left: 174px;
+	position: absolute;
+}
+#mint {
+	position: absolute;
+	padding-top: 269px;
+	padding-left: 476px;
+}
+#caramel {
+	position: absolute;
+	padding-top: 358px;
+	padding-left: 325px;
+}
+h1 {
+	font-family: "AvneyGad Bold", Tahoma, Geneva, sans-serif;
+	font-size: 30px;
+	color: #FFF;
+	text-shadow: 5px 4px 4px rgba(0, 0, 0, 0.2);
+	margin-top: -60px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	letter-spacing: 0.6px;
+	word-spacing: 3px;
+}
+
+#uper_winers_section {
+	padding-top: 20px;
+
+	
+}
+
+#like_beer2 {
+	padding-left: 990px;
+	margin-top: -68px;
+}
+
+
+#all_taste {
+	height: 508px;
+	width: 781px;
+	margin-left: 210px;
+	margin-top: 5px;
+}
+#fruit {
+	padding-top: 90px;
+	position: absolute;
+	padding-left: 174px;
+}
+#passion {
+	position: absolute;
+	padding-top: 90px;
+	padding-left: 476px;
+}
+
+
+
+
+.nav-button {
+	float: left;
+	text-decoration: none;
+	font-size: 16px;
+	font-size: 1.6rem;
+	color: #FFF;
+	padding-top: 1.3;
+	padding-right: 17px;
+	padding-bottom: 1.7;
+	font-family: "AvneyGad Medium",Tahoma, Geneva, sans-serif;
+	
+	
+}
+
+
+
+
+/*------------------------  BASE-REM SIZING  */
+
+
+@media (min-width: 1520px) {
+	html {
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 1400px) {
+	html {
+		font-size: 11px;
+	}
+}
+
+/* target screen width  */
+@media (max-width: 1280px) {
+	html {
+		font-size: 10px;
+	}
+}
+	
+@media (max-width: 1160px) {
+	html {
+		font-size: 9px;
+	}
+}
+	
+@media (max-width: 1040px) {
+	html {
+		font-size: 8px;
+	}
+}
+	
+@media (max-width: 920px) {
+	html {
+		font-size: 7px;
+	}
+}
+	
+@media (max-width: 800px) {
+	html {
+		font-size: 6px;
+	}
+}
+	
+@media (max-width: 680px) {
+	html {
+		font-size: 5px;
+	}
+}
+	
+@media (max-width: 560px) {
+	html {
+		font-size: 4px;
+	}
+}
+	
+@media (max-width: 440px) {
+	html {
+		font-size: 3px;
+	}
+}
+
+@media (max-width: 320px) {
+	html {
+		font-size: 3px;
+	}
+}
+#winers_wraper {
+	margin-right: auto;
+	margin-left: auto;
+	width: 895px;
+}
+#beer_can1 {
+	z-index:99;
+	position:absolute;
+	left: 50%;
+	margin-left:-421px;
+	margin-top:54px;
+}
+#vs_logo {
+	/*float: left;*/
+	margin-top: -100px;
+	width:630px;
+	height:360px;
+	margin:0 auto;
+	margin-left: -34px;
+}
+#beer_can2 {
+	/*float: left;
+	margin-top: -45px;
+	/*margin-left: -59px;*/
+	z-index:99;
+	position:absolute;
+	left:50%;
+	margin-left:266px;
+	margin-top:-307px;
+}
+#can1_info {
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color: #433028;
+	text-decoration: none;
+	float: left;
+	margin-left: 215px;
+}
+#rules_info {
+	font-size: 16px;
+	font-weight: normal;
+	color: #2e1606;
+	text-decoration: underline;
+	float: left;
+	margin-left: 160px;
+}
+#can2_info {
+	font-size: 16px;
+	color: #2e1606;
+	text-decoration: underline;
+	font-style: normal;
+	font-weight: normal;
+	float: right;
+	margin-right: 250px;
+}
+#left_winners {
+	width: 500px;
+	float: left;
+	height: 300px;
+}
+#right_winners {
+	height: 300px;
+	width: 385px;
+	float: left;
+}
+#beer_info_left {
+	background-image: url(../img/beer_info_left.png);
+	background-repeat: no-repeat;
+	margin-left:-34px;
+	width:630px;
+	height:360px;
+}
+#beer_info_right {
+	background-image: url(../img/beer_info_right.png);
+	background-repeat: no-repeat;
+	margin-left:-34px;
+	width:630px;
+	height:360px;
+}
+
+#beer_winn_rules {
+	background-image: url(../img/vs_rules_winn.png);
+	background-repeat: no-repeat;
+	margin-left: -34px;
+	width: 630px;
+	height: 360px;
+}
+
+
+#beer_info_rules {
+	background-image: url(../img/rules_prices.png);
+	background-repeat: no-repeat;
+	height: 202px;
+	width: 592px;
+	float: left;
+	padding-top: 50px;
+	padding-right: 22px;
+	padding-left: 22px;
+	background-position: right bottom;
+}
+
+#winners_logo {
+	margin-top:5px;
+
+}
+#winers_table {
+	float: left;
+	padding-left: 30px;
+}
+#matcon {
+	font-size: 24px;
+	font-weight: bold;
+	color: #900;
+	padding-top: 20px;
+	
+}
+
+
+
+#line {
+	float: right;
+	padding-left: 20px;
+}
+#winners_text_info {
+	float: left;
+	font-size: 20px;
+	color: #FFF;
+	line-height: 27px;
+	text-align: right;
+	font-family: "AvneyGad Medium",Tahoma, Geneva, sans-serif;
+	word-spacing: 1px;
+}
+#winners_text_infoB {
+	float: left;
+	font-size: 20px;
+	color: #FFF;
+	line-height: 27px;
+	text-align: right;
+	font-family: "AvneyGad Medium",Tahoma, Geneva, sans-serif;
+	word-spacing: 1px;
+}
+#beer_selector {
+	padding-top: 46px;
+	padding-left: 35px;
+	position: absolute;
+	z-index: 1;
+}
+#first_beer {
+	float: left;
+	padding-left: 200px;
+}
+#second_beer {
+	float: left;
+	padding-left: 100px;
+}
+#third_beer {
+	float: left;
+	padding-left: 100px;
+}
+#forth_beer {
+	float: left;
+	padding-left: 100px;
+}
+#first_beer_txt {
+	font-size: 19px;
+	color: #FFF;
+	float: left;
+	padding-left: 210px;
+}
+#second_beer_txt {
+	font-size: 19px;
+	color: #FFF;
+	float: left;
+	padding-left: 143px;
+}
+#third_beer_txt {
+	font-size: 19px;
+	color: #FFF;
+	padding-left: 176px;
+	float: left;
+}
+#forth_beer_txt {
+	font-size: 19px;
+	color: #FFF;
+	float: left;
+	padding-left: 158px;
+}
+#first_beer_info {
+	font-size: 12px;
+	float: left;
+	padding-left: 190px;
+	padding-top: 10px;
+}
+#second_beer_info {
+	font-size: 12px;
+	float: left;
+	padding-left: 50px;
+	padding-top: 10px;
+}
+#third_beer_info {
+	font-size: 12px;
+	float: left;
+	padding-top: 10px;
+	padding-left: 70px;
+}
+#forth_beer_info {
+	font-size: 12px;
+	float: left;
+	padding-top: 10px;
+	padding-left: 60px;
+}
+
+#winners_can {
+	float: left;
+	padding-left: 25px;
+}
+#down_winers_section {
+	padding-top: 60px;
+	position: absolute;
+	z-index:1px;
+	margin-left:115px;
+}
+
+#winners_canB {
+	float: left;
+	padding-left: 25px;
+}
+
+#winners_section {
+	padding-left: 197px;
+	padding-top: 70px;
+}
+#like_beer1 {
+	padding-left: 210px;
+	padding-top: 50px;
+}
+
+
+#container {
+	height: 4880px;
+	width: 1280px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	background-image: url(../img/coloms3.png);
+	background-repeat: repeat-y;
+	background-position: 0px 1178px;
+}
+body {
+	background-repeat: repeat;
+	background-image: url(../img/patern.jpg);
+	font-family: "AvneyGad Medium",Tahoma, Geneva, sans-serif;
+}
+
+
+#design {
+	height: 1178px;
+	width: 1280px;
+	background-image: url(../img/instractor_bg3.png);
+	
+}
+#instractor {
+	padding-top: 31px;
+	padding-left: 168px;
+	
+}
+
+#beer {
+	height: 654px;
+	width: 1280px;
+}
+#aliens {
+	height: 760px;
+	width: 1280px;
+}
+#winers {
+	margin-top: -150px;
+
+}
+#menu {
+	margin-top: -180px;
+}
+#taste {
+	margin-top: -200px;
+}
+#mountain_b {
+	margin-top: 250px;
+	height: 500px;
+	width: 1280px;
+
+}
+#mountain_c {
+	margin-top: 340px;
+}
+
+#mountain_a {
+	margin-top: -130px;
+}
+
+
+#electricity {
+	height: 800px;
+	width: 1280px;
+}
+#about {
+	margin-top: -150px;
+}
+.tase_logo {
+	padding-top: 0px;
+	padding-left: 330px;
+}
+.tastebox {
+	height: 120px;
+	width: 120px;
+	position: absolute;
+	z-index: 1000;
+	margin-top: 30px;
+	margin-left: -163px;
+}
+#left_txt {
+	font-size: 15px;
+	color: #FFF;
+	float: right;
+	padding-top: 60px;
+	line-height: 25px;
+	text-align: right;
+	letter-spacing: 1px;	
+}
+#right_txt {
+	font-size: 15px;
+	line-height: 25px;
+	color: #FFF;
+	text-align: right;
+	float: right;
+	padding-top: 60px;
+	padding-right: 20px;
+	letter-spacing: 1px;	
+}
+
+#about_icons {
+	padding-left: 200px;
+	margin-top: 0px;
+}
+#about_text_wraper {
+	margin-left: 230px;
+	margin-top: -20px;
+	float: left;
+}
+
+/*#beer_info_left {
+	float: left;
+	background-image: url(../img/beer_info_left.png);
+	height: 360px;
+	width: 632px;
+	background-repeat: no-repeat;
+	text-align: right;
+}*/
+#text_wizard {
+	margin-top: 612px;
+	margin-left: 760px;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 24px;
+	color: #0b9444;
+	text-decoration: none;
+	width: 140px;
+	font-weight: bold;
+}
+#winner_content_section {
+	float: left;
+	width: 520px;
+	padding-left: 40px;
+}
+
+.beer_winner_txt {
+	width:330px; 
+	margin-left:25px; 
+	padding-left:0
+}
+.nav-but{
+	}#beer_text_info_warper {
+	border: thin solid #000;
+}
+#left_win_txt {
+	font-family: "AvneyGad Medium",Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #433028;
+	text-align: right;
+	padding-top: 116px;
+	padding-right: 146px;
+	line-height: 24px;
+}
+#right_win_txt {
+	font-family: "AvneyGad Medium",Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #433028;
+	line-height: 24px;
+	text-align: right;
+	padding-top: 116px;
+	padding-right: 270px;
+}
+.scrollup{
+	width:40px;
+	height:40px;
+	opacity:0.8;
+	position:fixed;
+	bottom:50px;
+	right:100px;
+	display:none;
+	text-indent:-9999px;
+	background-image: url(../img/up.png);
+	background-repeat: no-repeat;
+}
